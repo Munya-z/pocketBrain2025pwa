@@ -1,0 +1,117 @@
+{
+  "configVersion": 1,
+  "timestamp": 1744973323366,
+  "index": "./index.csr.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "./favicon.ico",
+        "./index.csr.html",
+        "./index.html",
+        "./main-JCXCIMCS.js",
+        "./manifest.webmanifest",
+        "./polyfills-FFHMD2TL.js",
+        "./styles-MZK3KVV3.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "./assets/icons/bars-solid.svg",
+        "./assets/icons/calendar-week-solid.svg",
+        "./assets/icons/chart-simple-solid.svg",
+        "./assets/icons/credit-card-solid.svg",
+        "./assets/icons/eraser-solid.svg",
+        "./assets/icons/face-frown-solid.svg",
+        "./assets/icons/house-solid.svg",
+        "./assets/icons/info-solid.svg",
+        "./assets/icons/magnifying-glass-solid.svg",
+        "./assets/icons/money-check-dollar-solid.svg",
+        "./assets/icons/pen-solid.svg",
+        "./assets/icons/r-solid.svg",
+        "./assets/icons/rectangle-list-solid.svg",
+        "./assets/icons/trash-can-solid.svg",
+        "./assets/icons/user-secret-solid.svg",
+        "./assets/icons/warehouse-solid.svg",
+        "./assets/icons/x-solid.svg",
+        "./assets/images/logo.png",
+        "./icons/icon-128x128.png",
+        "./icons/icon-144x144.png",
+        "./icons/icon-152x152.png",
+        "./icons/icon-192x192.png",
+        "./icons/icon-384x384.png",
+        "./icons/icon-512x512.png",
+        "./icons/icon-72x72.png",
+        "./icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "./assets/icons/bars-solid.svg": "f4536ec3915e8f1aa13d2814959b93a587429265",
+    "./assets/icons/calendar-week-solid.svg": "c667be6c6de9c21d743e74a9310931f5a7a8f919",
+    "./assets/icons/chart-simple-solid.svg": "98b86d1b3996425aa4a77b9654bf6eadaddcfe6e",
+    "./assets/icons/credit-card-solid.svg": "6b4cf87c1ce5ff895918c4a458334964cbddbcd2",
+    "./assets/icons/eraser-solid.svg": "6f640d19272cb9619900b4cf51404655d92f843a",
+    "./assets/icons/face-frown-solid.svg": "98230371f46ccd22093dc1759ab5bac6a871d046",
+    "./assets/icons/house-solid.svg": "16093429dd51c1fe68bf2f6d267d42916ac97b76",
+    "./assets/icons/info-solid.svg": "60291d02a2408bf471c8966d9eb34df38fcb2e55",
+    "./assets/icons/magnifying-glass-solid.svg": "70a831bbb7ba559571fddd534aa5d2bb19922433",
+    "./assets/icons/money-check-dollar-solid.svg": "5028272b8ccec02d80b8a1b57b72d60cebec9f15",
+    "./assets/icons/pen-solid.svg": "cd7f819a27530e76bd22a9603eb3d9f7066c742e",
+    "./assets/icons/r-solid.svg": "b6dc8abc7d51e6069ac815dbfda9f87f45a8b8f8",
+    "./assets/icons/rectangle-list-solid.svg": "5ada2d5cf022bdddb7056ac347fa218dc88f5e66",
+    "./assets/icons/trash-can-solid.svg": "85acbeeb5b482f570034dbc01d2a685e8d0c86f5",
+    "./assets/icons/user-secret-solid.svg": "de47d9dd3ed1ee668fe92c330269dbc2e30b0af1",
+    "./assets/icons/warehouse-solid.svg": "c4298761aca7a1d0318f3d921041c584bb59c680",
+    "./assets/icons/x-solid.svg": "088a701278418742c72f94e934896d73019ec4e8",
+    "./assets/images/logo.png": "3bd8f6301156275ba0697238b62f3979650638d1",
+    "./favicon.ico": "d46ac54fda080c05b1986c3990f382090c5daef1",
+    "./icons/icon-128x128.png": "f912963bdc6d5a38d8f1dd0afbaab2ce8d657acb",
+    "./icons/icon-144x144.png": "b155fd5f2fd5d2ea7760721063003c4cd95fd783",
+    "./icons/icon-152x152.png": "eae6e0f0c8afb8aaae339e2a569b43e9238e5e6c",
+    "./icons/icon-192x192.png": "15c4180454633880d98674aa7394656196c91584",
+    "./icons/icon-384x384.png": "94a915751ef6c9282df9aea405ad679230631814",
+    "./icons/icon-512x512.png": "1de182f76f7329dfa8f9fcdd1fdcdd695bea6a99",
+    "./icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
+    "./icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
+    "./index.csr.html": "9057a959afb4c154f310648ea4d9a09c216aa1d5",
+    "./index.html": "406c2d1172d9f6d350b3eb3e86d93f035bba9eda",
+    "./main-JCXCIMCS.js": "570fa199ed795aa4b809c6669d3b8cffd6697673",
+    "./manifest.webmanifest": "9d908f6674efcf174db01f4bfbfe1253bb34465b",
+    "./polyfills-FFHMD2TL.js": "f49b49a155bc7d192db62a4c15d0a612b460a667",
+    "./styles-MZK3KVV3.css": "bee1b4854ab5afaca35b2b03e261e11add353fea"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
