@@ -1,7 +1,7 @@
 {
   "configVersion": 1,
-  "timestamp": 1744973323366,
-  "index": "./index.csr.html",
+  "timestamp": 1744981994890,
+  "index": "./index.html",
   "assetGroups": [
     {
       "name": "app",
@@ -12,7 +12,6 @@
       },
       "urls": [
         "./favicon.ico",
-        "./index.csr.html",
         "./index.html",
         "./main-JCXCIMCS.js",
         "./manifest.webmanifest",
@@ -88,8 +87,7 @@
     "./icons/icon-512x512.png": "1de182f76f7329dfa8f9fcdd1fdcdd695bea6a99",
     "./icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
     "./icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
-    "./index.csr.html": "9057a959afb4c154f310648ea4d9a09c216aa1d5",
-    "./index.html": "406c2d1172d9f6d350b3eb3e86d93f035bba9eda",
+    "./index.html": "3a25da0c7353de61544ed6cd7936bb50a0cdb1cf",
     "./main-JCXCIMCS.js": "570fa199ed795aa4b809c6669d3b8cffd6697673",
     "./manifest.webmanifest": "9d908f6674efcf174db01f4bfbfe1253bb34465b",
     "./polyfills-FFHMD2TL.js": "f49b49a155bc7d192db62a4c15d0a612b460a667",
