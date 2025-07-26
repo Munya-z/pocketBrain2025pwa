@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1753391012696,
+  "timestamp": 1753525867446,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -14,7 +14,6 @@
         "/chunk-2ALLAQSR.js",
         "/chunk-32IAWS6T.js",
         "/chunk-5FILBMZN.js",
-        "/chunk-5JXJ4RYH.js",
         "/chunk-5OJ3AFNZ.js",
         "/chunk-64VZBEFR.js",
         "/chunk-7B7JIC72.js",
@@ -24,6 +23,7 @@
         "/chunk-KHYJEK4E.js",
         "/chunk-LH6LMG3L.js",
         "/chunk-OO4XHHAQ.js",
+        "/chunk-PK6NAE2M.js",
         "/chunk-Q25FSYLX.js",
         "/chunk-RB5HBADI.js",
         "/chunk-U4CM75WX.js",
@@ -32,7 +32,7 @@
         "/chunk-Z4UVNOQN.js",
         "/favicon.ico",
         "/index.html",
-        "/main-YMRCHD47.js",
+        "/main-LE3UHMBD.js",
         "/manifest.webmanifest",
         "/polyfills-B6TNHZQ6.js",
         "/styles-3KYNWWOA.css"
@@ -82,7 +82,23 @@
       "patterns": []
     }
   ],
-  "dataGroups": [],
+  "dataGroups": [
+    {
+      "name": "api-cache",
+      "patterns": [
+        "\\/.*"
+      ],
+      "strategy": "performance",
+      "maxSize": 9,
+      "maxAge": 86400000,
+      "timeoutMs": 2000,
+      "refreshAheadMs": 5400000,
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "version": 1
+    }
+  ],
   "hashTable": {
     "/assets/icons/bars-solid.svg": "f4536ec3915e8f1aa13d2814959b93a587429265",
     "/assets/icons/calendar-week-solid.svg": "c667be6c6de9c21d743e74a9310931f5a7a8f919",
@@ -106,7 +122,6 @@
     "/chunk-2ALLAQSR.js": "c62e7a8159df9ba354ac3783d9dca3e058ff3633",
     "/chunk-32IAWS6T.js": "2452a1451debbd9f2f5b2a05e65194389764d6a5",
     "/chunk-5FILBMZN.js": "7be7547253f4d01e8c1e9ef917e0895a2430883f",
-    "/chunk-5JXJ4RYH.js": "ec8ed39f7e74e9dd56ef4197a88dc40b1d6f808c",
     "/chunk-5OJ3AFNZ.js": "a50ac307e9386dcd939ac9e1875dfa361d1ccbdb",
     "/chunk-64VZBEFR.js": "a7a4bcad34aa625b6cd5d318686f894aa31af7df",
     "/chunk-7B7JIC72.js": "d976cd8176dbd8bb5c910a20e5fa59731a9e8d48",
@@ -116,6 +131,7 @@
     "/chunk-KHYJEK4E.js": "0033181055144e925249ece58de78c4c5ebe6326",
     "/chunk-LH6LMG3L.js": "20131507019bf4a6aec363bceebb67552cf91eeb",
     "/chunk-OO4XHHAQ.js": "35b6bc3d989c80ff0180c87c21ec1af727ee720b",
+    "/chunk-PK6NAE2M.js": "cdfd47aa0dcd56b69e1de34e062c903dd32eb410",
     "/chunk-Q25FSYLX.js": "3151ff88a4c7048d095f9ce0bc9a215bb523cbcf",
     "/chunk-RB5HBADI.js": "4b33bbd701f65d85985a6756c4b5e0164294722e",
     "/chunk-U4CM75WX.js": "fd9dd68994df216d403653ed3cf16c27b655bf5d",
@@ -135,8 +151,8 @@
     "/icons/icon-96-96.png": "414950bb2ac893a8235daa777196fb8d97a0c401",
     "/icons/phone1.png": "4935289313b4867cb38a4c21beb53f2c5e139ee0",
     "/icons/phone2.png": "2a22859995eaf0fb8a749ec77c60ef60f427b159",
-    "/index.html": "e642ba948ba424bdf74cfea5d305b35f10caf209",
-    "/main-YMRCHD47.js": "3acc0ea2c70fdecae28b6fa72ea3d71edaefc793",
+    "/index.html": "e0d674b055b89376eef8c0cf3b25130b8fa210a2",
+    "/main-LE3UHMBD.js": "da313e8ba3834dcf5cb360b02266b546d68201cc",
     "/manifest.webmanifest": "21c3dc77ecd180fc051a8e963ba11c56d5f9d56c",
     "/polyfills-B6TNHZQ6.js": "bf76ac291d7f51c1139b7edcf86b359a30c08c64",
     "/styles-3KYNWWOA.css": "0688154efad0d80e9247d6cf26b9ceb5b1baa1ec"
