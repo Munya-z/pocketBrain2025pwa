@@ -1,4 +1,4 @@
-# Pocket_brain2025
+# PocketBrain2025
 
 A web App for Small bussiness bookkeeping and  Point of sales 
 2025 if a completely offline PWA that uses localStorage instead of a database like postgress or mongoDB
@@ -19,7 +19,7 @@ ___
 ## Installation
 
 
-Go to www.munya-z.github.io/pocketbrain2025pwa
+Go to https://munya-z.github.io/pocketBrain2025pwa/
 
 1. On the top left corner of your broswer press the three dots to reveal the menu
 
